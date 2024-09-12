@@ -1,6 +1,7 @@
 # Week-37-coding
 
 
+
 /*
     Task: Example
 */
@@ -15,6 +16,7 @@ for (let index = 0; index < people.length; index++) {
 
 
 
+
 /*
     Task: A
 */
@@ -22,6 +24,7 @@ console.log("Task: A");
 for (let i = 0; i < 100; i++) {
     console.log("Debugging is like being a detective in a crime drama where you are also the murderer");
 }
+
 
 
 
@@ -40,6 +43,7 @@ for (let index = max; index > 0; index--) {  // Start from max and count down
 }
 
 console.log("No more bottles of soda on the shelf");
+
 
 
 
@@ -69,6 +73,7 @@ console.log("5673 + 234 = " + add(5673, 234));
 
 
 
+
 /*
     Task: E
 */
@@ -76,6 +81,7 @@ console.log("Task: E");
 for (let i = people.length - 1; i >= 0; i--) {
     console.log(people[i]);
 }
+
 
 
 
@@ -92,12 +98,14 @@ console.log(phoneNumbers[2]);
 
 
 
+
 /*
     Task: G
 */
 console.log("Task: G");
 console.log(phoneNumbers[phoneNumbers.length - 1]);
 /*
+
 
 
 
